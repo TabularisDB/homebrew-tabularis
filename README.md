@@ -15,6 +15,7 @@ brew install --cask tabularis
 ## Updates
 
 The Homebrew formula is **automatically updated daily** via GitHub Actions. The workflow:
+
 - Checks for new releases from `debba/tabularis`
 - Downloads the latest DMG files (both ARM64 and Intel architectures)
 - Calculates SHA256 checksums
@@ -52,7 +53,7 @@ If you need to manually update the formula:
 
 ## Requirements
 
-- macOS 10.15 (Catalina) or later
+- macOS 12 (Monterey) or later
 - Homebrew installed
 
 ## About Tabularis
