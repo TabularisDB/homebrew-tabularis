@@ -1,9 +1,9 @@
 cask "tabularis" do
-  arch arm: "aarch64", intel: "9beab2a467a6045eff99196e831551213c2ee5102d3d86afaea137daead767b2"
+  arch arm: "aarch64", intel: "d69af6d009b5138a6e904f88af520fd70c445a8b34ba04a197cef0f21cf26b16"
 
-  version "0.9.20"
-  sha256 arm:   "a283adc6b4722101ef6e810afb892c2f1d16e8e476e06381d1730155f4006271",
-         intel: "9beab2a467a6045eff99196e831551213c2ee5102d3d86afaea137daead767b2"
+  version "0.9.21"
+  sha256 arm:   "4ed793b7488678ba0839f7d47a519052a216a3ec0471ebcb73937cf85e6af3d7",
+         intel: "d69af6d009b5138a6e904f88af520fd70c445a8b34ba04a197cef0f21cf26b16"
 
   url "https://github.com/debba/tabularis/releases/download/v#{version}/tabularis_#{version}_#{arch}.dmg"
   name "Tabularis"
