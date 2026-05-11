@@ -1,11 +1,11 @@
 
-[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YrZPHAwMSG)
+[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.com/invite/K2hmhfHRSt)
 
 # Homebrew Tabularis
 
 Official Homebrew tap for [Tabularis](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool.
 
-**Discord** - [Join our discord server](https://discord.gg/YrZPHAwMSG) and chat with the maintainers.
+**Discord** - [Join our discord server](https://discord.com/invite/K2hmhfHRSt) and chat with the maintainers.
 
 ## Installation
 
