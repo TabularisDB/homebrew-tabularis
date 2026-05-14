@@ -3,7 +3,7 @@
 
 # Homebrew Tabularis
 
-Official Homebrew tap for [Tabularis](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool.
+Official Homebrew tap for [Tabularis](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool.
 
 **Discord** - [Join our discord server](https://discord.com/invite/K2hmhfHRSt) and chat with the maintainers.
 
@@ -11,7 +11,7 @@ Official Homebrew tap for [Tabularis](https://github.com/debba/tabularis) - A li
 
 ```bash
 # Add this tap
-brew tap debba/tabularis
+brew tap TabularisDB/tabularis
 
 # Install Tabularis
 brew install --cask tabularis
@@ -21,7 +21,7 @@ brew install --cask tabularis
 
 The Homebrew formula is **automatically updated daily** via GitHub Actions. The workflow:
 
-- Checks for new releases from `debba/tabularis`
+- Checks for new releases from `TabularisDB/tabularis`
 - Downloads the latest DMG files (both ARM64 and Intel architectures)
 - Calculates SHA256 checksums
 - Updates the formula automatically
@@ -65,7 +65,7 @@ If you need to manually update the formula:
 
 Tabularis is a modern, lightweight database management tool designed for developers. It provides an intuitive interface for managing multiple database connections with a focus on simplicity and performance.
 
-Visit the main repository: [github.com/debba/tabularis](https://github.com/debba/tabularis)
+Visit the main repository: [github.com/TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)
 
 ## License
 

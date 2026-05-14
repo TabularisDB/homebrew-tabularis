@@ -6,7 +6,7 @@
 set -e
 
 # Configuration
-REPO_OWNER="debba"
+REPO_OWNER="TabularisDB"
 REPO_NAME="tabularis"
 FORMULA_FILE="Casks/tabularis.rb"
 
