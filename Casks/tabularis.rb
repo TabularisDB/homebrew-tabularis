@@ -1,5 +1,5 @@
 cask "tabularis" do
-  arch arm: "aarch64", intel: "9f8025ba0843b67653c71b4971b3c90d3a581533177e9594de852cca917b5eb9"
+  arch arm: "aarch64", intel: "x64"
 
   version "0.12.0"
   sha256 arm:   "e210427e63d76cbcf0451072cbc79267149d23aa56295c2a725aaaef31561900",

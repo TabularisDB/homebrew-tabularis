@@ -95,7 +95,7 @@ echo "Intel SHA256: ${SHA256_INTEL}"
 # Update the formula using sed
 sed -i "s/version \"[^\"]*\"/version \"${VERSION}\"/" "$FORMULA_PATH"
 sed -i "s/sha256 arm:   \"[^\"]*\"/sha256 arm:   \"${SHA256_ARM}\"/" "$FORMULA_PATH"
-sed -i "s/intel: \"[^\"]*\"/intel: \"${SHA256_INTEL}\"/" "$FORMULA_PATH"
+sed -i "s/^         intel: \"[^\"]*\"/         intel: \"${SHA256_INTEL}\"/" "$FORMULA_PATH"
 
 echo ""
 echo "✓ Formula updated successfully!"
